@@ -1,11 +1,11 @@
 import Layout from "./layout"
 
-function Home() {
+function About() {
   return (
     <Layout>
-      <div>homepage</div>
+      <div>About page</div>
     </Layout>
   )
 }
 
-export default Home
+export default About
